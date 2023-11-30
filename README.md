@@ -1,2 +1,2 @@
-# CF30years
+# CF Wind&Solar 1990-2020
 Capacity Factor Wind &amp; Solar 1990-2020
